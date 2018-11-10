@@ -1,0 +1,307 @@
+.donateea       {
+    background-color: #65AFFF;
+    text-align: right;
+    padding: 1%; 
+    
+}
+.donateea a     {
+    background-color: #1B2845;
+    border: none;
+    color: white;
+    padding: 20px 54px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    cursor: pointer;
+    font-family: roboto; 
+    
+}
+.flagsea {
+    display: flex;
+    width: 100%;
+   
+}
+
+.guyea{
+    flex: auto;
+    background-color: #274060;
+    height: 200px;
+    width: 100px;
+    align-content: space-around; 
+    padding-left: 20px; 
+    position: relative; 
+    
+}
+
+.titleea {
+    background-color: #274060;
+    padding: 50px; 15px; 5px; 15px; 
+    font-size: 18px; 
+    font-family: roboto; 
+    color: #FFFFFF;
+} 
+
+.usea {
+    flex: auto;
+    background-color: #274060;
+    height: 200px;
+    width: 100px;
+    align-content: space-around; 
+    padding-left: 20px;
+    
+}
+
+.navea {
+    background-color: #004FFC;
+    padding-left: 1000px; 
+    padding-right: 90px; 
+    font-family: roboto; 
+    padding-top: 1%; 
+    padding-bottom: 1%; 
+   
+}
+
+.navareaea {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-left: 1px; 
+   
+      
+}
+.navareaea a:hover {
+    background-color: #65AFFF;
+}
+.navareaea a {
+    text-decoration: none;
+    color: white;
+    font-family: lato;
+        
+}
+.sidenavea {
+    background-color: #335c81;
+    display: flex; 
+    flex-direction: row;
+    justify-content:center
+    margin: 1%;
+ 
+    
+}
+.sideea a {
+    text-decoration: none; 
+    vertical-align: text-top;
+    color: white; 
+     
+}
+
+.sideea a:hover {
+    background-color: #65AFFF;
+}
+ul {
+    list-style-type: none;
+     padding-right: 5px;  
+}
+
+.sideea  {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 105vh;
+    padding-left: 20px; 
+    padding-right: 120px; 
+    font-family: lato; 
+}
+.mainea {
+    color: White; 
+    flex: 2; 
+    position: fixed;
+    top:1px;
+    left: 90px; 
+    background-image: url("images/sjh5.jpg");
+    padding-right: 5px; 
+   
+ 
+}
+
+div .mainea{
+    position: static; 
+} 
+
+div .mainboxea {
+    position: fixed;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px; 
+}
+
+.bottomea {
+    background-color: #274060;
+    color: white;
+    height: 300px;
+}
+
+.copyrightea {
+    flex: 3; 
+    background-color: #274060;
+    text-align: center; 
+    padding: 90px; 1px; 1px; 1px;
+    font-family: lora; 
+    color: #FFFFFF;
+    
+}
+
+.addea a {
+    text-decoration-color: none; 
+}
+
+.addea  {
+    text-align: right; 
+    font-family: Lora; 
+    font-size: 12px; 
+    padding-top: 15px; 
+     
+}
+.aboutea {
+    display: flex; 
+    justify-content: space-between;
+    height: 500px
+    font-family: lato;
+    text-align: center; 
+   
+    
+}
+/*https://www.cssmatic.com/box-shadow */
+
+.hisea {
+    flex: 1;
+    background-color: #65AAFF;
+    height: 500px;
+    -webkit-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    -moz-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    border: 0px solid #65AAFF;
+    border-radius: 40px;
+    border: 2px solid #1B2845;
+    padding: 15px; 
+    width: 50%;
+    height: 900px;
+  
+}
+
+h3 {
+    text-align: left; 
+    color: #1B2845;
+}
+
+.offea {
+    flex: 1;
+    background-color: #65AAFF;
+    height: 500px;
+    -webkit-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    -moz-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    border: 0px solid #65AAFF;
+    border-radius: 40px;
+    border: 2px solid #1B2845;
+    padding: 15px; 
+    width: 55%;
+    height: 900px;
+}  
+
+.footerea img {
+    width: 100%; 
+    
+}
+
+p {
+    text-align: justify; 
+}
+
+li {
+    text-align: justify; 
+    
+}
+
+.footnoteea {
+    display: flex;
+    
+    }
+.goalstwoea {
+    display: flex; 
+}
+.missionea {
+    background-color: #65AAFF;
+    height: 500px;
+    -webkit-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    -moz-box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    box-shadow: -12px -7px 22px 14px rgba(27,40,69,0.83);
+    border: 0px solid #65AAFF;
+    border-radius: 40px;
+    border: 2px solid #1B2845;
+    padding: 20px; 
+    width: 97%;
+    height: 100px;
+    text-align: center; 
+    
+}
+
+.address {
+    text-decoration: none;
+}
+
+.membershipea {
+    text-align: center; 
+    background-color: #1B2845;
+    color: #ffffff;
+    padding-top: 1px;
+    padding-bottom: 35px; 
+    height: 30px; 
+    
+}
+
+.memea{
+    display: flex; 
+}
+
+.appformea {
+    padding-left: 350px;
+    background-color: #1B2845;
+    height: 900px; 
+    padding-right: 580px; 
+    
+   
+}
+form{
+    background-color: #65AAFF;
+    font-family: lato;
+    width: 150%;
+    padding: 10px; 15px; 10px; 5px; 
+    align-content: center; 
+          
+        
+}
+.container {
+    height: 10px; 
+    padding: 0px; 
+    
+}
+    
+label  {
+    float:left;
+    clear: left;
+    display: block; 
+    text-align: right; 
+    width: 250px; 
+    padding right: 10px; 
+    margin-top: 10px; 
+}
+
+input, textarea, select, option {
+    margin-top: 10px;
+    display: block; 
+    padding right: 10px; 
+}
+ 
+
